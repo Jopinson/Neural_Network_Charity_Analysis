@@ -1,1 +1,2 @@
-# Neural_Network_Charity_Analysis
+# Neural_Network_Charity_Analysis Overview
+I was tasked by Beks and her company Alphabet Soup, an investment firm, to create a machine learning and neural network program that uses the features in a dataset containing more than 34,000 organizations that have received funding from Alphabet Soup over the years to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
